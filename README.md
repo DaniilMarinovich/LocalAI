@@ -1,3 +1,3 @@
 # LocalGPTAI
  
-Ptogram to run local ggyf ai models
+Program to run local ggyf ai models
